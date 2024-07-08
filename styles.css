@@ -130,9 +130,9 @@ strong {
     padding: 0.3em;
 }
 
-.destaque  {
-    font-weight: bolder;
+th.destaque  {
     color: #5a41be;
+    font-weight: bold;
 }
 
 #referencia {
